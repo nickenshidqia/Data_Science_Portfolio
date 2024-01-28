@@ -20,6 +20,8 @@ A collection of data science projects showcasing self-learning, online course, v
   Build a machine learning model that can predict the price of used car.
 - [Machine Learning Project Build a Movie Recommendation System](https://github.com/nickenshidqia/Build_a_Movie_Recommendation_System)  
   Build a machine learning model that can recommend movie based on user preference.
+- [Machine Learning Project of House Price Prediction](https://github.com/nickenshidqia/House_Price_Prediction)  
+  Build machine learning model to predict residential property prices based on various features
 
 ## SQL Project, Data & Dashboard Analysis
 
