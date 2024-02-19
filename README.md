@@ -35,6 +35,8 @@ A collection of data science projects showcasing self-learning, online course, v
   Big Data Analytics Project gives challenges to create data mart design and dashboard on Kimia Farma.
 - [Startup Venture Funding Dashboard Data Analysis](https://github.com/nickenshidqia/Startup-Venture-Funding-Dashboard-Data-Analysis)  
   The Startup Venture Funding Dashboard is a comprehensive visual representation of the dynamic landscape of startup funding, providing valuable insights into the top startups, funding round types, markets, startup statuses, and investor details
+- [Financial Reporting and Analysis System using SQL](https://github.com/nickenshidqia/SQL-for-Financial-Data-Analysis)  
+  Design SQL queries to generate accurate and timely financial reports including Profit and Loss statements, Balance Sheets, and Cash Flow statements.
 
 ## Python Project
 
